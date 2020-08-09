@@ -128,12 +128,11 @@
   background: var(--color-secondary-dark);
 }
 
-#page-study mais .no-results{
+#page-study main .no-results{
   max-width: 30rem;
   margin: 12rem;
   text-align: center;
   
-
 }
 
 @media (min-width: 700px) {
