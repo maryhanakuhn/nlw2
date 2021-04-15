@@ -1,4 +1,4 @@
-<h1 align="center">PROFFY-NLW</h1>
+<h1 align="center">PROFFY</h1>
 
 ✨ <b>Tecnologias</b>
 
